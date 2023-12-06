@@ -28,10 +28,10 @@ domain: jitaro.github.io
 baseurl: /docs/ # the subpath of your site, e.g. /blog
 url: https://jitaro.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:
+github_username: jitaro
 
 # Build settings
-theme: minima
+theme: modern
 plugins:
   - jekyll-feed
 
