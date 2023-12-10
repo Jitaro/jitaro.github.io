@@ -31,7 +31,7 @@ url: https://jitaro.github.io # the base hostname & protocol for your site, e.g.
 github_username: jitaro
 
 # Build settings
-theme: modern
+theme: minimal
 plugins:
   - jekyll-feed
 
